@@ -1,5 +1,4 @@
-# The-Magic-Caf-Secrets-of-the-Maid
-此处填简介
+# The Magic Caf Secrets of the Maid
 ---
-## 目录结构
-assets
+>此处填简介
+---
